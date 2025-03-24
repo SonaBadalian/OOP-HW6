@@ -6,7 +6,7 @@ import java.util.GregorianCalendar;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class JavaProblemsSolver {
+public class ProblemsSolver {
 
     // 10.1 Time class
     static class Time {
